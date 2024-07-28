@@ -1,0 +1,77 @@
+*{
+    background: #fff;
+}
+.body{
+    display:flex;
+    margin: 0px;
+    margin: 20px;
+    display: flex;
+
+}
+h2{
+    background:grey;
+}
+p{
+    width: 100%;
+    font-size: 18px;
+}
+.personal-info{
+    display: flex;
+    font-size: 15px;
+}
+.info{
+    padding-left: 10px;
+}
+.edu{
+   background: gray;
+}
+fa-brands, .fab {
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 400;
+    width: 40px;
+}
+table{
+    border-collapse: separate;
+    border-spacing: 20px;
+    border:1px solid;
+    width: 100%;
+    text-align: center;
+}
+th{ 
+    padding: 15px;
+    font-size: 20px;
+    text-align:justify;
+}
+td{ 
+    padding: 15px;
+    font-size: 18px;
+    text-align: left;
+}
+.s{
+    font-size: 20px;
+    font-weight: 900;
+}
+.buttonn{
+    padding: 10px;
+    text-align: center;
+    size: 30px;
+}
+.button{
+    width: 140px;
+    height: 40px;
+    background: gray;
+    border-radius: 5px;
+    color:black;
+    text-decoration: solid;
+}
+.button:hover{
+    color: #fff;
+    background-color:black;
+}
+.container{
+    padding-top: 10px;
+    padding-left: 70px;
+    padding-right: 70px ;
+    padding-bottom: 20px;
+    background-color: #fff;
+}
