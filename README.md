@@ -1,0 +1,1 @@
+The goal of this project was to create a personal CV website showcasing my qualifications, certifications, responsibilities, and participation in webinars. The project involved utilizing HTML, CSS, and JavaScript to build a professional and visually appealing online resume.
